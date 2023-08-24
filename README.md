@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reuben c fernandes</h1>
 <h3 align="center">I'm a skilled web and game developer with experience using Blender and Unreal Engine to create immersive environments. Proficient in Node.js and the MERN stack, with additional knowledge of Python, PHP, MySQL, and Java. Let me bring my passion and expertise to your project and deliver high-quality results</h3>
 
-- 🔭 I’m currently working on **kingdom of steel**
-
-- 🌱 I’m currently learning **unreal engine , python , Ai and ML and many more**
-
-- 👨‍💻 All of my projects are available at [xyz.com](xyz.com)
-
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **18reuchagasfernandes@gmail.com**
