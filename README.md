@@ -7,6 +7,8 @@
 
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.instagram.com/reuben_cf/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" alt="insta" width="40" height="40"/> </a>
+<a href="https://discord.gg/v2TzrDz5Kz" target="_blank" rel="noreferrer"> <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="discord" width="40" height="40"/> </a>
 <p align="left">
 </p>
 
