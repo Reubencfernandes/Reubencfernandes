@@ -1,10 +1,96 @@
-<h1 align="center">Hello There, I'm Reuben C Fernandes</h1> <h3 align="center">Web and Flutter Developer</h3> <p align="center"> With a solid foundation in web and Flutter development, I specialize in building innovative and responsive applications. My expertise includes Node.js, React, Flutter, and the MERN stack, complemented by skills in Python, PHP, MySQL, and MongoDB. I’m passionate about crafting high-quality solutions, leveraging my experience with projects like weather apps, task planners, and official websites, to bring your ideas to life. </p>
-</p> <a href="https://gitroll.io/profile/u8lXMOVQHwvQfJcDGbIElZDYoXEl2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u8lXMOVQHwvQfJcDGbIElZDYoXEl2?theme=light" alt="GitRoll Profile Badge"/></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reubencfernandes&label=Profile%20views&color=0e75b6&style=flat" alt="reubencfernandes" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=reubencfernandes" alt="reubencfernandes" /> </a> <br>
-<br>
-<p>📫 How to reach me: 18reuchagasfernandes@gmail.com</p>
-<p><b>Connect with me:</b></p>
-<p> <a href="https://www.linkedin.com/in/reuben-chagas-fernandes/" target="blank"> <img src="https://img.shields.io/badge/-Reuben%20Fernandes-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://instagram.com/reuben_cf" target="blank"> <img src="https://img.shields.io/badge/-reuben__cf-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"> </a> <a href="https://www.youtube.com/c/reubencf" target="blank"> <img src="https://img.shields.io/badge/-ReubenCF-FF0000?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"> </a> <a href="https://discord.gg/v2TzrDz5Kz" target="blank"> <img src="https://img.shields.io/badge/-ReubenCF-7289DA?style=flat-square&logo=Discord&logoColor=white" alt="Discord"> </a> </p>
-Languages and Tools:
+<h1 align="center">Hi, I'm Reuben Fernandes 👋</h1>
 
-<p> <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" /> <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white" /> <img alt="Blender" src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=Blender&logoColor=white" /> <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black" /> <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" /> <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /><img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=Express&logoColor=white" /> <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" /> <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black" /> <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" /> <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=Heroku&logoColor=white" /> <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" /> <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" /> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white" /> <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" /> <img alt="Unreal Engine" src="https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat-square&logo=Unreal%20Engine&logoColor=white" /> </p> <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=reubencfernandes&show_icons=true&locale=en" alt="reubencfernandes" /> </p>
+<p align="center">
+  <a href="https://github.com/Reubencfernandes">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0F7A6C&center=true&vCenter=true&width=560&lines=AI+music%2C+speech+and+image+apps;Next.js+%C2%B7+Flutter+%C2%B7+Python+%C2%B7+PyTorch;Shipping+on+Hugging+Face+ZeroGPU;Building+from+Goa%2C+India" alt="AI music, speech and image apps · Next.js · Flutter · Python · PyTorch" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://huggingface.co/Reubencf"><img src="https://img.shields.io/badge/Hugging%20Face-Reubencf-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+  <a href="https://www.linkedin.com/in/reuben-chagas-fernandes/"><img src="https://img.shields.io/badge/LinkedIn-Reuben%20Fernandes-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/c/reubencf"><img src="https://img.shields.io/badge/YouTube-ReubenCF-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://instagram.com/reuben_cf"><img src="https://img.shields.io/badge/Instagram-reuben__cf-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://discord.gg/v2TzrDz5Kz"><img src="https://img.shields.io/badge/Discord-ReubenCF-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:18reuchagasfernandes@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-0F7A6C?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+I build AI products end to end: the model work, the GPU backend and the app people actually use.
+Right now that means an AI music studio, speech models for Goan Konkani, and image tools on Hugging Face.
+Before that, lots of web, Flutter and Discord-bot projects.
+
+- 🎵 Building **Kiku AI**, a studio that turns your recording into sheet music and builds a band around your voice
+- 🗣️ Training speech recognition and text-to-speech for **Goan Konkani** (Romi script)
+- 🎬 Maintaining **Open-Video-Craft**, a local-first screen recorder and timeline editor
+- 📍 Goa, India · open to freelance and full-time work
+
+## Featured work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://huggingface.co/spaces/Reubencf/Kiku-AI">🎼 Kiku AI</a></h3>
+      AI music studio: record or upload a voice, get editable notation, then generate backing tracks and covers around it.
+      Next.js front end with a ZeroGPU engine running SheetSage2, YuE2, ACE-Step and Demucs.
+      <br /><br />
+      <a href="https://github.com/Reubencfernandes/musical">Code</a> ·
+      <a href="https://huggingface.co/spaces/Reubencf/Score-Studio-API">Transcription API</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Reubencfernandes/Open-Video-Craft">🎬 Open-Video-Craft</a></h3>
+      Open-source, local-first screen recorder and timeline video editor for macOS and Windows.
+      <br /><br />
+      <img src="https://img.shields.io/github/stars/Reubencfernandes/Open-Video-Craft?style=flat-square&color=0F7A6C" alt="Stars" />
+      <a href="https://github.com/Reubencfernandes/Open-Video-Craft/releases/latest">Download</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://huggingface.co/spaces/Reubencf/Nano_Banana_Editor">🍌 Nano Banana Portrait Editor</a></h3>
+      Portrait editing app on Hugging Face Spaces, backed by a Qwen-Image edit API. 100+ likes.
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://huggingface.co/spaces/Reubencf/konkani-speech-stt-tts">🗣️ Konkani speech</a></h3>
+      Goan Konkani speech-to-text and text-to-speech in Romi, from fine-tuned
+      <a href="https://huggingface.co/Reubencf/konkani-whisper-stt">Whisper</a> and
+      <a href="https://huggingface.co/Reubencf/konkani-orpheus-tts">Orpheus</a> models.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://huggingface.co/spaces/Reubencf/spiderman-miles-morales">🕸️ Web-swinging in three.js</a></h3>
+      A browser game: swing through a 3D Manhattan, built with three.js.
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://huggingface.co/Reubencf/gemma-3-27b-it-vlm-react-screenshot-to-code">🧩 Screenshot → React</a></h3>
+      Gemma 3 and Llama 3.2 LoRAs that turn UI screenshots and descriptions into React components,
+      with a <a href="https://huggingface.co/spaces/Reubencf/llama-3.2-3b-react-lora-demo">live demo</a>.
+    </td>
+  </tr>
+</table>
+
+## Tech I use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,py,pytorch,flutter,dart,threejs,docker,mysql,postgres,mongodb,firebase,git,linux,figma,blender&perline=10" alt="TypeScript, JavaScript, React, Next.js, Node.js, Tailwind, Python, PyTorch, Flutter, Dart, three.js, Docker, MySQL, PostgreSQL, MongoDB, Firebase, Git, Linux, Figma, Blender" />
+</p>
+
+## GitHub activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Reubencfernandes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Reubencfernandes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Reubencfernandes&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reubencfernandes&layout=compact&langs_count=8&hide_border=true" alt="Most used languages" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Reubencfernandes/Reubencfernandes/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Reubencfernandes/Reubencfernandes/output/github-snake.svg" alt="Contribution graph eaten by a snake" />
+  </picture>
+</p>
