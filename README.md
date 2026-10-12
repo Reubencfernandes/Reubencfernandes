@@ -79,18 +79,26 @@ Before that, lots of web, Flutter and Discord-bot projects.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Reubencfernandes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Reubencfernandes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Reubencfernandes&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reubencfernandes&layout=compact&langs_count=8&hide_border=true" alt="Most used languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Reubencfernandes/Reubencfernandes/output/contributions-dark.svg" />
+    <img width="840" src="https://raw.githubusercontent.com/Reubencfernandes/Reubencfernandes/output/contributions-light.svg" alt="Contributions over the last year, including private work, and the most active public repositories" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Reubencfernandes/Reubencfernandes/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Reubencfernandes/Reubencfernandes/output/github-snake.svg" alt="Contribution graph eaten by a snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Reubencfernandes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1b1b21&title_color=f2f2f5&text_color=8d8d99&icon_color=8b8df9&ring_color=8b8df9" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Reubencfernandes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&icon_color=6f71e8&ring_color=6f71e8" alt="GitHub stats with overall grade" />
   </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Reubencfernandes&layout=compact&langs_count=8&hide_border=true&bg_color=1b1b21&title_color=f2f2f5&text_color=8d8d99" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reubencfernandes&layout=compact&langs_count=8&hide_border=true" alt="Most used languages" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://gitroll.io/profile/u8lXMOVQHwvQfJcDGbIElZDYoXEl2"><img height="120" src="https://gitroll.io/api/badges/profiles/v1/u8lXMOVQHwvQfJcDGbIElZDYoXEl2?theme=dark" alt="GitRoll developer rating" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=reubencfernandes&label=Profile%20views&color=8b8df9&style=flat-square" alt="Profile views" />
 </p>
